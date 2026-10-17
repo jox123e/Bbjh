@@ -1,0 +1,18 @@
+# Rojo
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+
+# Roblox Studio
+*.lock
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+
+# Rojo generated
+sourcemap.json
